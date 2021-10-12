@@ -2,7 +2,31 @@
   "songs": [
     { 
       "id": 1, 
-      "title": "json-server", 
-      "author": "Swetha" }
+      "movie": "Anurodh", 
+      "title": "JabDardNahiTha",
+      "length" : "4:50",
+      "singer" : "Kishore"
+    },
+     { 
+      "id": 2, 
+      "movie": "KabhiKabhi", 
+      "title": "MepalDopal",
+      "length" : "3:45",
+      "singer" : "Mukesh"
+    },
+     { 
+      "id": 1, 
+      "movie": "Aadarhana", 
+      "title": "AajaTujhko",
+      "length" : "4:45",
+      "singer" : "Rafi"
+    },
+     { 
+      "id": 1, 
+      "movie": "Mungaarumale", 
+      "title": "Anisuthide",
+      "length" : "5:50",
+      "singer" : "Nigam"
+    }
   ]
 }
